@@ -1,0 +1,38 @@
+[/]
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', 'c6ccac52-0b8e-4eaa-86ab-3fab2f77be69', 'db54751c-e8be-471a-b7c7-d7aebc30a493']
+
+[:c6ccac52-0b8e-4eaa-86ab-3fab2f77be69]
+background-transparency-percent=100
+cursor-background-color='rgba(0,0,0,0)'
+custom-command='vtop'
+exit-action='hold'
+highlight-colors-set=false
+login-shell=false
+palette=['rgb(47,20,74)', 'rgb(218,0,124)', 'rgb(173,244,255)', 'rgb(255,91,168)', 'rgb(100,0,201)', 'rgb(239,47,255)', 'rgb(81,1,194)', 'rgb(216,148,255)', 'rgb(143,82,144)', 'rgb(46,0,100)', 'rgb(130,177,146)', 'rgb(109,68,104)', 'rgb(161,34,255)', 'rgb(173,127,168)', 'rgb(150,255,255)', 'rgb(238,238,236)']
+preserve-working-directory='never'
+scroll-on-keystroke=false
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-theme-colors=true
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='vtop'
+
+[:db54751c-e8be-471a-b7c7-d7aebc30a493]
+background-transparency-percent=100
+cursor-background-color='rgba(0,0,0,0)'
+custom-command='cava'
+exit-action='hold'
+highlight-colors-set=false
+login-shell=false
+palette=['rgb(47,20,74)', 'rgb(218,0,124)', 'rgb(173,244,255)', 'rgb(255,91,168)', 'rgb(100,0,201)', 'rgb(239,47,255)', 'rgb(81,1,194)', 'rgb(216,148,255)', 'rgb(143,82,144)', 'rgb(46,0,100)', 'rgb(130,177,146)', 'rgb(109,68,104)', 'rgb(161,34,255)', 'rgb(173,127,168)', 'rgb(150,255,255)', 'rgb(238,238,236)']
+preserve-working-directory='never'
+scroll-on-keystroke=false
+scrollback-unlimited=true
+scrollbar-policy='never'
+use-custom-command=true
+use-theme-colors=true
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='cava'
